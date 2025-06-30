@@ -51,6 +51,11 @@ The objective is to equip business users with a clear understanding of key metri
 - **Profit Margin**: Profit divided by sales.
 - **Forecasted Sales**: Predicted sales for the upcoming period.
 
+### Dashboard 
+<img width="596" alt="Image" src="https://github.com/user-attachments/assets/3ceb19d2-30db-44c1-9948-ee588f2e71a8" />
+
+
+
 ## Technologies and Tools Used
 - **Power BI**: Main tool used for building the interactive dashboard and performing data visualizations.
 - **DAX (Data Analysis Expressions)**: For creating calculated fields, measures, and dynamic aggregations in Power BI.
